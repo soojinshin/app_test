@@ -4,6 +4,7 @@ import java.util.Iterator;
 import java.util.ListIterator;
 import java.util.NoSuchElementException;
 
+
 public class KWLinkendList<E> {
 
 	private Node<E> head = null;
